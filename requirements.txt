@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 openpyxl
+confluent-kafka
+requests
+python-dotenv
+psycopg2
